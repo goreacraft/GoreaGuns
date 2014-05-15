@@ -1,0 +1,4 @@
+CheckUpdates: false
+Min damage to show message: 10
+Enable max shield: true
+Max shield: 50

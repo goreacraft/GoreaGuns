@@ -1,0 +1,17 @@
+name: GoreaGuns
+author: GoreaCraft
+main: com.goreacraft.plugins.goreaguns.GoreaGuns
+version: 7.5
+website: http://www.goreacraft.com
+description: New weapons of mass destruction!
+commands:
+    goreaguns:
+        aliases: [goreaguns, gguns, gg]
+        description: nothing much
+        usage: /gg ?, /gg help
+    ggtp:        
+        description: teleport player to coords
+        usage: /ggtp <player_name> <world_name> <x> <y> <z>
+    ggdamage:        
+        description: Chance to damage the player, chance is value from 0 to 100
+        usage: /ggdamage [player_name] [ammount] <chance>
